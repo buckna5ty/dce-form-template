@@ -1,1 +1,5 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #fff; color: #111; }
+.container { max-width: 920px; margin: 0 auto; padding: 16px; }
+.logo { text-align: center; margin: 12px 0 20px; }
+.logo img { max-width: 220px; height: auto; }
 
